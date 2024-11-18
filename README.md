@@ -32,11 +32,15 @@ pip install -v -e .
 
 The construction of the dataset primarily relies on two methods: One is based on the single-pixel 
 imaging principle to transform ordinary images to obtain single-pixel sampling values or aliased 
-imaging results, with related methods detailed in papers [1][2]. 
+imaging results, with related methods detailed in papers ([Zhou et al., 2022](https://doi.org/10.1016/j.optlaseng.2022.107101); 
+[Zhou et al., 2020](https://doi.org/10.1007/s00340-020-07512-6);
+[Zhou et al., 2019](https://doi.org/10.1088/2040-8986/ab1471)). 
 The other involves using a single-pixel imaging system to directly image real 
 objects, followed by annotation on the reconstructed images, for which the setup 
 of the single-pixel imaging system and associated reconstruction algorithms can 
-be found in papers [3][4]. This study employed both methods to generate the dataset, 
+be found in papers ([Zhou et al., 2022](https://doi.org/10.1016/j.optlaseng.2022.107101); 
+[Zhou et al., 2020](https://doi.org/10.1007/s00340-020-07512-6);
+[Zhou et al., 2019](https://doi.org/10.1088/2040-8986/ab1471)). This study employed both methods to generate the dataset, 
 with the former considered as simulation experiments and the latter as field tests.
 
 The naming convention for the dataset is as follows:
