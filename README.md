@@ -124,19 +124,3 @@ python tools/pose_spipose_test.py --dataset horse10 --scale s --optical-field-si
 5. The evaluation results will be saved in the `work_dirs/spipose/horse10-128x128-64x64-inverse-256-1234/spipose-small_8xb64-210e_horse10-256x256` folder.
 
 
-## SPIPose Results on Benchmark Datasets
-
-### Mouse
-
-### Fly
-
-### Anipose Fly
-
-### Horse10
-
-### Two person
-
-## Real-world Demo
-
-
-
