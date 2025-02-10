@@ -74,7 +74,7 @@ that the normalsized images size are 256x256 pixels. **(Optional)**
 
 Example: `images-128x128-64x64-inverse-256-1234`
 
-Note: All parts except `[optical-field-size]x[optical-field-size]` can be omitted.
+Note: All parts except `[optical-field-size]x[optical-field-size]` can be omitted. Please refer to [here](https://github.com/wux024/hadamard_encode). for detailed code for data encoding.
 
 ## Training , Evaluation and Prediction
 
